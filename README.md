@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Packet Panic — The Network Survival Game
 
 A Computer Networks mini-project built with **Python 3 + Pygame**.
@@ -318,3 +319,6 @@ No. Routers work at L1–L3. Only the destination host goes up to the applicatio
 
 **Q: Is this real networking?**
 No — it's a discrete simulation. Headers and bits are educational representations; nothing is sent on a real network.
+=======
+# Packet-Game
+>>>>>>> dc3eaff830df5424bbd41d4ec07219d7a29aec59
